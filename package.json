@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "name": "solid-dzone",
+  "name": "@e23thr/solid-dzone",
   "description": "Simple, high-quality drag'n'drop primitive for Solid JS",
   "license": "MIT",
   "author": "Jcanotorr06",
